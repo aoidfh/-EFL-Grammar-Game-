@@ -1,4 +1,3 @@
-@@ -1,68 +1 @@
 # 어린이 영어 학습 게임 (EFL Grammar Game Collection)
 
 Unity(C#) 기반으로 개발한 교육용 영어 학습 게임입니다.  
